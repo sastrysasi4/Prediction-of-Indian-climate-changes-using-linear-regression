@@ -1,5 +1,5 @@
 
-# Climate Change Visualization and Prediction
+# Visualization and Prediction of Climate Change
 
 The main theme of this project is to Visualize the data
 from different timeline and understand the importance of the 
